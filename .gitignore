@@ -1,0 +1,8 @@
+packages/*
+!packages/repositories
+
+*.suo
+
+*.DotSettings.user
+*/bin
+*/obj
